@@ -1,2 +1,1 @@
-# ManagementConsole
-Professional ManagementConsole solution with ManagementConsole-optimized enterprise-grade and enterprise scalable-architecture capabilities
+.
